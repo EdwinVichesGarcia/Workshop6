@@ -1,0 +1,50 @@
+h1 {
+ color: orangered;
+ text-align: center;
+}
+
+ul {
+    list-style: square;
+}
+
+h2 {
+    text-decoration: underline;
+    color:blue;
+    background-color: grey;
+    width:15%    
+}
+
+div {
+    border:1px solid black;
+    width: 15%
+    
+}
+
+h3 {
+    color:blue;
+    text-decoration: underline;
+}
+
+.aqua-box {
+    display: inline-block;
+    background-color:aqua
+}
+
+.green-box {
+    display: inline-block;
+    background-color:green
+}
+
+.lightcoral-box {
+    display: inline-block;
+    background-color:lightcoral
+}
+
+.yellow-box {
+    display: inline-block;
+    background-color:yellow
+}
+
+img {
+    padding: 5px 5px 5px 5px
+}
